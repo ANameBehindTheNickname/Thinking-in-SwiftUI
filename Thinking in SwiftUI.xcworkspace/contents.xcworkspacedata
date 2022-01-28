@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "container:Chapter 1 - Overview/Chapter 1 - Overview.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Chapter 2 - View Updates/Chapter 2 - View Updates.xcodeproj">
+   </FileRef>
+</Workspace>
